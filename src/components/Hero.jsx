@@ -8,7 +8,7 @@ const Hero = () => {
         <img
           src={logoRe}
           alt="articleCompiler_logo"
-          className="w-28 object-contain scale-150"
+          className="w-28 object-contain scale-150 ml-5"
         />
 
         <button
