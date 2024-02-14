@@ -13,7 +13,9 @@ const Hero = () => {
 
         <button
           type="button"
-          onClick={() => window.open("https://github.com/QyperXit")}
+          onClick={() =>
+            window.open("https://github.com/QyperXit/GPT-ArticleCompiler")
+          }
           className="black_btn"
         >
           GitHub
