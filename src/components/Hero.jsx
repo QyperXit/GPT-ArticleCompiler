@@ -4,7 +4,7 @@ import { logo, logoRe } from "../assets";
 const Hero = () => {
   return (
     <header className="w-full justify-center items-center flex-col ">
-      <nav className="flex justify-between items-center flex-full mb-10 pt-3">
+      <nav className="flex justify-between items-center flex-full mb-10 pt-3 ">
         <img
           src={logoRe}
           alt="articleCompiler_logo"
